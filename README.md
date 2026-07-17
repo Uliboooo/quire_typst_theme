@@ -6,6 +6,10 @@ The look follows the "Uncoated Paper" design manual in [`PaperDesign.md`](PaperD
 
 [日本語は下にあります。](#quire-日本語)
 
+![](./Examples/typst_is_good.png)
+
+other examples [](https://github.com/Uliboooo/quire_typst_theme/blob/main/Examples/)
+
 ## Requirements
 
 - Typst with the `touying` package, version `0.7.4`

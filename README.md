@@ -8,7 +8,7 @@ The look follows the "Uncoated Paper" design manual in [`PaperDesign.md`](PaperD
 
 ![](./Examples/typst_is_good.png)
 
-other examples [](https://github.com/Uliboooo/quire_typst_theme/blob/main/Examples/)
+[Oother examples](https://github.com/Uliboooo/quire_typst_theme/blob/main/Examples/)
 
 ## Requirements
 
